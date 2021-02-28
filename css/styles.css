@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b9/Sauti-Sol.jpg);
+}
+
+.header {
+    padding: 0px;
+    background-color: #ECD189;
+    margin: 0px;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
+
+.header h1 {
+    float: left;
+    padding-left: 20px;
+    font-size: 60px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+    height: 0px;
+    color: #232323;
+    font-family: 'Dancing Script',
+        cursive;
+}
+
+#navigation {
+    overflow: hidden;
+    float: right;
+    margin-right: 30px;
+}
+
+#navigation ul li {
+    display: inline;
+    height: 20px;
+    list-style: none;
+    font-size: 12px;
+    font-family: Impact,
+        Haettenschweiler,
+        'Arial Narrow Bold',
+        sans-serif;
+    margin-left: 25px;
+}
+
+#navigation ul li a:link {
+    text-decoration: none;
+    color: gray;
+}
+
+#navigation ul li a:visited {
+    text-decoration: none;
+    color: gray;
+}
+
+#navigation ul li a:hover {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 4px;
+    border-bottom: 2px solid black;
+    width: fit-content;
+}
