@@ -15,4 +15,4 @@ If you have any queries or in case of a fire, you can reach the developer via [p
 ### License
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright &copy 2021 **[peterken674](www.github.com/peterken674)**
+Copyright &copy; 2021 **[peterken674](www.github.com/peterken674)**
