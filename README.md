@@ -6,10 +6,10 @@ This is a fan-made website of Sauti Sol, a Kenyan music band. The website consis
 ## Setup/Installation Requirements
 To view the website, go to [peterken674.github.io/my-favorite-band-project/index.html](https://peterken674.github.io/my-favorite-band-project/index.html) and use the navigation bar at the top to navigate through pages. Voila! No other installation is required as long as you have a working browser.
 ## Known Bugs
--The site is not responsive.
+- The site is not responsive.
 ## Technologies Used
--HTML
--CSS
+- HTML
+- CSS
 ## Support and contact details
 If you have any queries or in case of a fire, you can reach the developer via [peterken.ngugi@gmail.com](mailto:peterken.ngugi@gmail.com)
 ### License
