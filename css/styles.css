@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(21, 100%, 50%);
+    background-color: hsl(19, 11%, 29%);
 }
 
 #bg img {
@@ -151,6 +151,7 @@ body {
         border-bottom: 7px solid rgba(245, 245, 245, 0.877);
         margin: 10px;
         margin-left: 30px;
+        overflow: auto;
     }
 
     .about_boxes #about_box2 {
@@ -162,6 +163,7 @@ body {
         padding: 40px;
         border-bottom: 7px solid rgba(245, 245, 245, 0.877);
         margin: 10px;
+        overflow: auto;
     }
 
     .about_boxes #about_box3 {
@@ -173,6 +175,7 @@ body {
         padding: 40px;
         border-bottom: 7px solid rgba(245, 245, 245, 0.877);
         margin: 10px;
+        overflow: auto;
     }
 
     .about_boxes #about_box4 {
@@ -184,6 +187,8 @@ body {
             padding: 40px;
     border-bottom: 7px solid rgba(245, 245, 245, 0.877);
     margin: 10px;
+    text-justify: auto;
+    overflow: auto;
     }
 
     .about_boxes p {
